@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41" started-at="2019-12-05T19:41:44Z" finished-at="2019-12-05T19:41:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41" started-at="2019-12-05T19:41:44Z" finished-at="2019-12-05T19:41:44Z">
+      <class name="practice.testNG">
+        <test-method status="PASS" signature="browsersetup()[pri:0, instance:practice.testNG@51efea79]" name="browsersetup" is-config="true" duration-ms="8" started-at="2019-12-06T01:11:44Z" finished-at="2019-12-06T01:11:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method status="PASS" signature="login()[pri:0, instance:practice.testNG@51efea79]" name="login" is-config="true" duration-ms="1" started-at="2019-12-06T01:11:44Z" finished-at="2019-12-06T01:11:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:practice.testNG@51efea79]" name="launchbrowser" is-config="true" duration-ms="0" started-at="2019-12-06T01:11:44Z" finished-at="2019-12-06T01:11:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method status="PASS" signature="enterURL()[pri:0, instance:practice.testNG@51efea79]" name="enterURL" is-config="true" duration-ms="2" started-at="2019-12-06T01:11:44Z" finished-at="2019-12-06T01:11:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:practice.testNG@51efea79]" name="test1" duration-ms="5" started-at="2019-12-06T01:11:44Z" finished-at="2019-12-06T01:11:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:practice.testNG@51efea79]" name="aftermethod" is-config="true" duration-ms="8" started-at="2019-12-06T01:11:44Z" finished-at="2019-12-06T01:11:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="enterURL()[pri:0, instance:practice.testNG@51efea79]" name="enterURL" is-config="true" duration-ms="0" started-at="2019-12-06T01:11:44Z" finished-at="2019-12-06T01:11:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:practice.testNG@51efea79]" name="test2" duration-ms="1" started-at="2019-12-06T01:11:44Z" finished-at="2019-12-06T01:11:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:practice.testNG@51efea79]" name="aftermethod" is-config="true" duration-ms="1" started-at="2019-12-06T01:11:44Z" finished-at="2019-12-06T01:11:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="enterURL()[pri:0, instance:practice.testNG@51efea79]" name="enterURL" is-config="true" duration-ms="1" started-at="2019-12-06T01:11:44Z" finished-at="2019-12-06T01:11:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:practice.testNG@51efea79]" name="test3" duration-ms="1" started-at="2019-12-06T01:11:44Z" finished-at="2019-12-06T01:11:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:practice.testNG@51efea79]" name="aftermethod" is-config="true" duration-ms="1" started-at="2019-12-06T01:11:44Z" finished-at="2019-12-06T01:11:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:practice.testNG@51efea79]" name="aftertest" is-config="true" duration-ms="0" started-at="2019-12-06T01:11:44Z" finished-at="2019-12-06T01:11:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+        <test-method status="PASS" signature="Afterclass()[pri:0, instance:practice.testNG@51efea79]" name="Afterclass" is-config="true" duration-ms="0" started-at="2019-12-06T01:11:44Z" finished-at="2019-12-06T01:11:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Afterclass -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:practice.testNG@51efea79]" name="afterSuite" is-config="true" duration-ms="0" started-at="2019-12-06T01:11:44Z" finished-at="2019-12-06T01:11:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- practice.testNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
